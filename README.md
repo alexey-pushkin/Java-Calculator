@@ -2,9 +2,9 @@
 
 This is simple Java calculator.
 
-I used Java JDK 1.7.0_60 + Swing + IntelijIdea 13.1.5 GUIDesigner + JUnit 4.12.
-
 Double-click run.bat to start.
+
+I used Java JDK 1.7.0_60 + Swing + IntelijIdea 13.1.5 GUIDesigner + JUnit 4.12.
 
 My blog: http://alexey-pushkin.blogspot.com
 
